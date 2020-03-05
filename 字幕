@@ -1,7 +1,28 @@
-制作字幕002：翻译格式和规范 （https://www.jianshu.com/p/250d5a01c348）
-英文课程字幕翻译规范 v2.2 （http://www.edu-infinity.org/26723266962594531243）
-译学馆视频字幕制作规范 （https://www.yxgapp.com/subtitling-rules/）
-字幕制作注意事项 / 偏校对 （https://sites.google.com/site/welovelaomatihua/home/subtitle-guidelines）
+翻译视频步骤
+
+  → 是否有cc字幕
+    ↘是：利用Terns直接机翻
+    ↘否↓
+       是否可以youtube自动翻译
+       ↘是：自动翻译拖进人人译世界，合并所有行后打轴+校准
+       ↘否：AI听译（目前暂未找到合适软件）
+
+
+制作字幕002：翻译格式和规范 
+  https://www.jianshu.com/p/250d5a01c348
+英文课程字幕翻译规范 v2.2 
+  http://www.edu-infinity.org/26723266962594531243
+译学馆视频字幕制作规范 
+  https://www.yxgapp.com/subtitling-rules/
+字幕制作注意事项 / 偏校对 
+  https://sites.google.com/site/welovelaomatihua/home/subtitle-guidelines
+
+
+人人译世界
+  https://www.1sj.tv/  
+Terns：cc字幕机翻
+  https://tern.1c7.me/download/
+
 
 字体：方正准圆_GBK
 字号：60  （顶端50），垂直边距30
